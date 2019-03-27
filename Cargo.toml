@@ -1,0 +1,12 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+authors = ["Shrey Aryan <shrey183@gmail.com>"]
+
+[dependencies]
+nalgebra = "0.10.1"
+rand = "0.6.5"
+
+
+
